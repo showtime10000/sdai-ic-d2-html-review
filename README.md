@@ -1,5 +1,7 @@
 # Adoption Day
 
+![complete](./assets/code_examples/complete.png)
+
 ## Description 📄
 This lab is designed as a thorough review of everything we've learned in HTML so far. We will be creating an adoption site for cats and dogs.
 
