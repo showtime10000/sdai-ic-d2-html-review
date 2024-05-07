@@ -36,4 +36,11 @@ So far everything should look similar to the following
 
 ---
 
-## Attributions
+## Solution
+
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d2-html-review/tree/solution).
