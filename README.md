@@ -42,6 +42,8 @@ So far everything should look similar to the following
 
 ![example_4](./assets/code_examples/example_4.png)
 
+8. [ ] Now make sure to add, commit, and push your code.
+
 ---
 
 ## Solution
