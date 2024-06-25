@@ -27,7 +27,7 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 
 ![example_1](./assets/code_examples/example_1.png)
 
-5. [ ]Now create an `<h2>` tag with the copy `Meet our Furry Friends`. 
+5. [ ] Now create an `<h2>` tag with the copy `Meet our Furry Friends`. 
 6. [ ] We need showcase the animals we have available for adoption. To do this we'll create sections using `<div>` tags which serve as containers for structuring content in a webpage.
 
 ![example_2](./assets/code_examples/example_2.png)
